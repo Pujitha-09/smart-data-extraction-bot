@@ -1,0 +1,13 @@
+# Virtual environment folders
+venv/
+__pycache__/
+
+# Environment and secrets
+.env
+.env.local
+secrets.json
+
+# Temporary or export files
+*.pdf
+*.docx
+*.csv

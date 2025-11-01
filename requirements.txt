@@ -1,0 +1,18 @@
+# ====== Core ======
+streamlit
+pandas
+python-dotenv
+
+# ====== Web Extraction ======
+requests
+requests-html
+beautifulsoup4
+lxml
+lxml_html_clean
+
+# ====== AI / NLP ======
+huggingface_hub
+
+# ====== Document Generation ======
+reportlab
+python-docx
