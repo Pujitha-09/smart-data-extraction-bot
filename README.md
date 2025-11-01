@@ -145,7 +145,6 @@ Vercel / Render → Python-based deployment supported
 👩‍💻 Author
 
 VARI NAGA PUJITHA
-📫 LinkedIn
 
 💡 Passionate about AI, automation, and data-driven applications.
 
